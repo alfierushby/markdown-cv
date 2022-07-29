@@ -23,22 +23,25 @@ __Biddenham International School and Sports College__
 __University of Nottingham__
 `2021-now`
 - BSc Hons Computer Science with Artificial Intelligence 
-- Average of ~85% for first year.
+- Average of ~85% for first year
 
 | Module | Grade | Description
 | --- | ----------- | ------ |
-| Header | Title | |
-| Paragraph | Text | |
+| CS \w Maths 1 | 86% | Learned Informal and Formal proofs, Set Theory, Graphs and Probability. <br> Formal proofs can be used to systematically define axioms and build numbering systems and operation functions. |
+| CS \w Maths 2 | 79% | Learned Linear Algebra, focused heavily on theoretical building and proving of Vector Spaces, <br> Linear Mappings to transform such spaces, and how to represent these functions in terms of Matrices.|
 
 
+## Extra-curricular 
 
+`2019`
+__Villiers Park Education Trust__
+- Computer Science
+- Presented a web-project, and won best presentation.
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2022`
+ Awarded *Nottingham University* 'UG High Achiever 1st Year' prize for exam results.
 
 
 <!-- ### Footer
