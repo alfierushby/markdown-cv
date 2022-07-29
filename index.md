@@ -11,36 +11,25 @@ Physicist, Mathematician, Cambridge professor.
 </div>
 
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
 ## Education
 
-### Biddenham International School and Sports College
+__Biddenham International School and Sports College__
 `2015-2020`
-
-__GCSE:__
+### Grades
 - 9 GCSEs grades 9-7, English (7), Maths (8)
-
-__A level:__
-- Mathematics (A*), Further Mathematics (A*), Physics (A*), Computer Science (A*)
+- Mathematics (A\*), Further Mathematics (A\*), Physics (A\*), Computer Science (A\*)
 
 
-`1667 - death`
-__Trinity College, Cambridge__
+__University of Nottingham__
+`2021-now`
+- BSc Hons Computer Science with Artificial Intelligence 
+- Average of ~85% for first year.
 
-- Fellow
+| Module | Grade | Description
+| --- | ----------- | ------ |
+| Header | Title | |
+| Paragraph | Text | |
+
 
 
 
