@@ -20,6 +20,7 @@ __Biddenham International School and Sports College__, 9 GCSEs, 4 A-Levels.
 __University of Nottingham__, BSc Hons Computer Science with Artificial Intelligence 
 `2021-now`
 - Average of ~85% for first year
+ 
 ### Relevant Modules
 
 - __CS \w Maths 1__, Grade 86%
@@ -32,11 +33,14 @@ __University of Nottingham__, BSc Hons Computer Science with Artificial Intellig
 ## Extra-curricular 
 
 `2019`
-__Villiers Park Education Trust__
-- Computer Science
+__Villiers Park Education Trust__, Computer Science
 - Presented a web-project to the class in a group, and won best presentation.
+- Learnt how to work in a group, and 
 
 ## Awards
+
+`Biddenham International School and Sports College 2021`
+ Awarded Principle's prize for attaining the highest A-Level result in the year.
 
 `Nottingham University 2022`
  Awarded 'UG High Achiever 1st Year' prize for exam results.
