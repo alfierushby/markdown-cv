@@ -12,20 +12,21 @@ Undergraduate, University of Nottingham
 
 ## Education
 
-__Biddenham International School and Sports College__
+__Biddenham International School and Sports College__, 9 GCSEs, 4 A-Levels.
 `2015-2020`
-- __9 GCSEs__ 
-- Graded 9-7, English (7), Maths (8)
-- __4 A-Levels__
-- Mathematics (A\*), Further Mathematics (A\*), Physics (A\*), Computer Science (A\*)
+- Graded 9-7, English (7), Maths (8) `GCSEs`
+- Mathematics (A\*), Further Mathematics (A\*), Physics (A\*), Computer Science (A\*) `A-Levels`
 
 __University of Nottingham__
 `2021-now`
 - BSc Hons Computer Science with Artificial Intelligence 
 - Average of ~85% for first year
+
+### Relevant Modules
+
+
 - __CS \w Maths 1__, Grade 86%
 - Learned Informal and Formal proofs, Set Theory, Graphs and Probability. Formal proofs can be used to systematically define axioms and build numbering systems and operation functions.
-
 - __CS \w Maths 2__, Grade 79%
 - Learned Linear Algebra, focused heavily on theoretical building and proving of Vector Spaces, Linear Mappings to transform such spaces, and how to represent these functions in terms of Matrices.
 
