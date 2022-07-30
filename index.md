@@ -8,7 +8,7 @@ Undergraduate, University of Nottingham
 +44 07766 122932
 
 <div id="webaddress">
-<a href="rushbyalfie99@gmail.com">rushbyalfie99@gmail.com</a>
+<a href="mailto: rushbyalfie99@gmail.com">rushbyalfie99@gmail.com</a>
 </div>
 
 
