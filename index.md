@@ -14,8 +14,8 @@ Undergraduate, University of Nottingham
 
 __9 GCSEs, 4 A-Levels__, *Biddenham International School and Sports College*.
 `2015-2020`
-- Graded 9-7, English (7), Maths (8) `GCSEs`
-- Mathematics (A\*), Further Mathematics (A\*), Physics (A\*), Computer Science (A\*) `A-Levels`
+- Graded 9-7, English (7), Maths (8), *GCSEs*
+- Mathematics (A\*), Further Mathematics (A\*), Physics (A\*), Computer Science (A\*), *A-Levels*
 
  __BSc Hons Computer Science with Artificial Intelligence__, *University of Nottingham*.
 `2021-now`
@@ -44,11 +44,9 @@ __Villiers Park Education Trust__, *Computer Science*
 
 ## Awards
 
-`Biddenham International School 2021`
- Awarded the __Principle's prize__ for attaining the highest A-Level result in the year.
+ Awarded the __Principle's prize__ for attaining the highest A-Level result in the year, *Biddenham International School 2021*
 
-`Nottingham University 2022`
- Awarded the __UG High Achiever 1st Year prize__ for exam results.
+ Awarded the __UG High Achiever 1st Year prize__ for exam results, *Nottingham University 2022*
 
 
 <!-- ### Footer
