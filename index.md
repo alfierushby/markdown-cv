@@ -19,7 +19,7 @@ Undergraduate, University of Nottingham
 
 ## Education
 
-__9 GCSEs__,__4 A-Levels__, *Biddenham International School and Sports College*.
+__9 GCSEs__, __4 A-Levels__, *Biddenham International School and Sports College*.
 `2015-2020`
 - Grades __9-7__, English (__7__), Maths (__8__), *GCSEs*
 - Mathematics (__A\*__), Further Mathematics (__A\*__), Physics (__A\*__), Computer Science (__A\*__), *A-Levels*
