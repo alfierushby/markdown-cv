@@ -49,7 +49,7 @@ Learned Linear Algebra, focused heavily on theoretical building and proving of V
 
 `2019`
 __STEM VEX Robotics Competition__, *Software Engineer*.
--Designed the software to drive a purpose built robot
+- Designed the software to drive a purpose built robot
  
 
 `2019`
