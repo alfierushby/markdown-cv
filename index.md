@@ -40,7 +40,7 @@ __STEM VEX Robotics Competition__, *Software Designer*
 `2019`
 __Villiers Park Education Trust__, *Computer Science*
 - Presented a web-project to the class in a group, and won best presentation.
-- Learnt how to manage a workload in a group of varying skill-levels, and how 
+- Learnt how to manage a workload in a group of varying skill-levels, and how to work under a deadline
 
 ## Awards
 
