@@ -21,6 +21,7 @@ __University of Nottingham__
 `2021-now`
 - BSc Hons Computer Science with Artificial Intelligence 
 - Average of ~85% for first year
+
 ### Relevant Modules
 
 - __CS \w Maths 1__, Grade 86%
