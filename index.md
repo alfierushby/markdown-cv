@@ -12,14 +12,14 @@ Undergraduate, University of Nottingham
 
 ## Education
 
-__Biddenham International School and Sports College__, 9 GCSEs, 4 A-Levels.
+__9 GCSEs, 4 A-Levels__, _Biddenham International School and Sports College_.
 `2015-2020`
 - Graded 9-7, English (7), Maths (8) `GCSEs`
 - Mathematics (A\*), Further Mathematics (A\*), Physics (A\*), Computer Science (A\*) `A-Levels`
 
-__University of Nottingham__, BSc Hons Computer Science with Artificial Intelligence 
+ __BSc Hons Computer Science with Artificial Intelligence__, _University of Nottingham_.
 `2021-now`
-- Average of ~85% for first year
+- Average of ~85% Grade for first year
  
 ### Relevant Modules
 
