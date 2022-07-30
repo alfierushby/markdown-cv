@@ -5,7 +5,7 @@ title: Alfie Rushby's CV
 # Alfie Rushby
 Undergraduate, University of Nottingham
 
-71 HADRIAN AVENUE, Dunstable, United Kingdom
+71 Hadrian Avenue, Dunstable, United Kingdom
 
 +44 07766 122932
 
