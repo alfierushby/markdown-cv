@@ -46,7 +46,7 @@ __9 GCSEs__, __4 A-Levels__, *Biddenham International School and Sports College*
 
 
 `2019`
-__STEM VEX Robotics Competition__, *Software Designer*.
+__STEM VEX Robotics Competition__, *Software Engineer*.
 - Designed the software to drive a purpose built robot
 - 
 
