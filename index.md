@@ -17,8 +17,8 @@ Dunstable, United Kingdom
 ## Who I am
 
 I am a student who enjoys challenge. Mathematics is prevalent in all scientific subjects, including computer science,
-and thus I pertain great importance to understanding and appreciating it. I also undertake many hobbies, such as programming
-games, piano, and reading. I enjoy teaching whenever I can, as it helps me understand the content better.
+and thus I pertain great importance to understanding and appreciating it. Due to this, I enjoy teaching whenever I can, as it is the best method to learn.
+I also undertake many hobbies, such as programming games, piano, and reading. 
 
 
 ## Education
