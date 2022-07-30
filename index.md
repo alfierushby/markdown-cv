@@ -24,7 +24,7 @@ __9 GCSEs, 4 A-Levels__, *Biddenham International School and Sports College*.
 ### Relevant Modules
 
  __CS \w Maths 1__, *Grade 86%*.
-- Learned Informal and Formal proofs, Set Theory, Graphs and Probability. Formal proofs can be used to systematically define axioms and build numbering systems and operation functions
+- Learned Informal and Formal proofs, Set Theory, Graphs and Probability. Formal proofs can be used to define axioms and build numbering systems and operation functions
 
  __CS \w Maths 2__, *Grade 79%*.
 - Learned Linear Algebra, focused heavily on theoretical building and proving of Vector Spaces, Linear Mappings to transform such spaces, and how to represent these functions in terms of Matrices
