@@ -5,9 +5,15 @@ title: Alfie Rushby's CV
 # Alfie Rushby
 Undergraduate, University of Nottingham
 
++44 07766 122932
+
 <div id="webaddress">
 <a href="rushbyalfie99@gmail.com">rushbyalfie99@gmail.com</a>
 </div>
+
+
+## Who I am
+
 
 
 ## Education
@@ -19,7 +25,7 @@ __9 GCSEs, 4 A-Levels__, *Biddenham International School and Sports College*.
 
  __BSc Hons Computer Science with Artificial Intelligence__, *University of Nottingham*.
 `2021-now`
-- Average of ~85% Grade for first year
+- Average ~85% Grade for first year
  
 ### Relevant Modules
 
@@ -37,6 +43,7 @@ __9 GCSEs, 4 A-Levels__, *Biddenham International School and Sports College*.
 `2019`
 __STEM VEX Robotics Competition__, *Software Designer*.
 - Designed the software to drive a purpose built robot
+- 
 
 `2019`
 __Villiers Park Education Trust__, *Scholars Programme, Computer Science*.
@@ -45,7 +52,7 @@ __Villiers Park Education Trust__, *Scholars Programme, Computer Science*.
 
 ## Awards
 
- __Principle's prize__, *Biddenham International School 2021*.
+ __Principle's prize__, *Biddenham International School and Sports College 2021*.
  - For attaining the highest A-Level result in the year
 
 __UG High Achiever 1st Year prize__, *Nottingham University 2022*.
