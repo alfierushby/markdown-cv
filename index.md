@@ -16,7 +16,9 @@ Dunstable, United Kingdom
 
 ## Who I am
 
-I have gotten  
+I am a student who enjoys challenge. Mathematics is prevalent in all scientific subjects, including computer science,
+and thus I pertain great importance to understanding and appreciating it. I also undertake many hobbies, such as programming
+games, piano, and reading. I enjoy teaching whenever I can, as it helps me understand the content better.
 
 
 ## Education
@@ -60,6 +62,11 @@ __Villiers Park Education Trust__, *Scholars Programme, Computer Science*.
 
 __UG High Achiever 1st Year prize__, *Nottingham University 2022*.
 - For exam results
+
+## Personal
+
+- Birth date: 2nd February 2003
+- Residence: United Kingdom
 
 <!-- ### Footer
 
