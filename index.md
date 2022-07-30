@@ -23,12 +23,12 @@ I also undertake many hobbies, such as programming games, piano, and reading.
 
 ## Education
 
-__9 GCSEs__, __4 A-Levels__, *Biddenham International School and Sports College*.
+__Biddenham International School and Sports College__, *9 GCSEs, 4 A-Levels*.
 `2015-2020`<br>
 Grades __9-7__, English (__7__), Maths (__8__), *GCSEs*<br>
 Mathematics (__A\*__), Further Mathematics (__A\*__), Physics (__A\*__), Computer Science (__A\*__), *A-Levels*
 
-__BSc Hons Computer Science with Artificial Intelligence__, *University of Nottingham*.
+__University of Nottingham__, *BSc Hons Computer Science with Artificial Intelligence*.
 `2021-now` <br>
 Average ~85% Grade for first year
  
