@@ -23,9 +23,10 @@ __9 GCSEs, 4 A-Levels__, *Biddenham International School and Sports College*.
  
 ### Relevant Modules
 
-- __CS \w Maths 1__, *Grade 86%*.
+ __CS \w Maths 1__, *Grade 86%*.
 - Learned Informal and Formal proofs, Set Theory, Graphs and Probability. Formal proofs can be used to systematically define axioms and build numbering systems and operation functions
-- __CS \w Maths 2__, *Grade 79%*.
+
+ __CS \w Maths 2__, *Grade 79%*.
 - Learned Linear Algebra, focused heavily on theoretical building and proving of Vector Spaces, Linear Mappings to transform such spaces, and how to represent these functions in terms of Matrices
 
 
@@ -38,7 +39,7 @@ __STEM VEX Robotics Competition__, *Software Designer*.
 - Designed the software to drive a purpose built robot
 
 `2019`
-__Villiers Park Education Trust__, *Computer Science*.
+__Villiers Park Education Trust__, *Scholars Programme, Computer Science*.
 - Presented a web-project to the class in a group, and won best presentation
 - Learnt how to manage a workload in a group of varying skill-levels, and how to work under a deadline
 
