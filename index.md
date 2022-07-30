@@ -5,6 +5,8 @@ title: Alfie Rushby's CV
 # Alfie Rushby
 Undergraduate, University of Nottingham
 
+Dunstable, United Kingdom
+
 +44 07766 122932
 
 <div id="webaddress">
@@ -14,7 +16,7 @@ Undergraduate, University of Nottingham
 
 ## Who I am
 
-
+I have gotten  
 
 
 ## Education
