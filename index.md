@@ -32,18 +32,23 @@ __University of Nottingham__, BSc Hons Computer Science with Artificial Intellig
 
 ## Extra-curricular 
 
+
+`2019`
+__STEM VEX Robotics Competition__, Software Designer
+- Designed the software to drive a purpose built robot.
+
 `2019`
 __Villiers Park Education Trust__, Computer Science
 - Presented a web-project to the class in a group, and won best presentation.
-- Learnt how to work in a group, and 
+- Learnt how to manage a workload in a group of varying skill-levels, and how 
 
 ## Awards
 
-`Biddenham International School and Sports College 2021`
- Awarded Principle's prize for attaining the highest A-Level result in the year.
+`Biddenham International School 2021`
+ Awarded __Principle's prize__ for attaining the highest A-Level result in the year.
 
 `Nottingham University 2022`
- Awarded 'UG High Achiever 1st Year' prize for exam results.
+ Awarded __UG High Achiever 1st Year prize__ for exam results.
 
 
 <!-- ### Footer
