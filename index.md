@@ -3,11 +3,10 @@ layout: cv
 title: Alfie Rushby's CV
 ---
 # Alfie Rushby
-Physicist, Mathematician, Cambridge professor.
+Undergraduate, University of Nottingham
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="rushbyalfie99@gmail.com">rushbyalfie99@gmail.com</a>
 </div>
 
 
@@ -15,8 +14,7 @@ Physicist, Mathematician, Cambridge professor.
 
 __Biddenham International School and Sports College__
 `2015-2020`
-### Grades
-- 9 GCSEs grades 9-7, English (7), Maths (8)
+- 9 GCSEs graded 9-7, English (7), Maths (8)
 - Mathematics (A\*), Further Mathematics (A\*), Physics (A\*), Computer Science (A\*)
 
 
@@ -36,12 +34,12 @@ __University of Nottingham__
 `2019`
 __Villiers Park Education Trust__
 - Computer Science
-- Presented a web-project, and won best presentation.
+- Presented a web-project to the class in a group, and won best presentation.
 
 ## Awards
 
-`2022`
- Awarded *Nottingham University* 'UG High Achiever 1st Year' prize for exam results.
+`Nottingham University 2022`
+ Awarded 'UG High Achiever 1st Year' prize for exam results.
 
 
 <!-- ### Footer
