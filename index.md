@@ -23,9 +23,6 @@ __University of Nottingham__
 `2021-now`
 - BSc Hons Computer Science with Artificial Intelligence 
 - Average of ~85% for first year
-
-### Relevant Modules
-
 - __CS \w Maths 1__, Grade 86%
 - Learned Informal and Formal proofs, Set Theory, Graphs and Probability. Formal proofs can be used to systematically define axioms and build numbering systems and operation functions.
 
