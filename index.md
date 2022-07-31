@@ -56,7 +56,7 @@ Presented a web-project to the class in a group, and won best presentation
 Learnt how to manage a workload in a group of varying skill-levels, and how to work under pressure.
 
 `2020`
-__University Rocket Challenge__, *Software Engineer* <br>
+__University Rocket Challenge__, *Software Engineer*. <br>
 At school, our team was tasked with designing a payload to be put
 into a rocket. I was responsible with interfacing with a raspberry
 pi to record non-Newtonian liquid, using a camera and a LED circuit.
