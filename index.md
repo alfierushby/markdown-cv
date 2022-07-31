@@ -51,15 +51,15 @@ Designed the software to drive a purpose built robot.
 
 `2019`
 __Villiers Park Education Trust__, *Scholars Programme, Sponsored by ARM*. <br>
-I was chosen as a 'STEM Scholar' and spent 5 days in a residential working with a team of 4.
-Presented a web-project to the class in a group and won best presentation. 
+I was chosen as a 'STEM Scholar' and spent 5 days in a residential working with a team of 4. <br>
+Presented a web-project to the class in a group and won best presentation. <br>
 Learnt how to manage a workload in a group of varying skill-levels, and how to work under pressure.
 
 `2020`
 __University Rocket Challenge__, *Software Engineer*. <br>
-At school, our team was tasked with designing a payload to be put
-into a rocket. I was responsible with interfacing with a raspberry
-pi to record non-Newtonian liquid, using a camera and a LED circuit.
+At school, our team was tasked with designing a payload to be put into a rocket. <br>
+
+I was responsible with interfacing with a raspberry pi to record non-Newtonian liquid, using a camera and a LED circuit.
 
 ## Awards
 
