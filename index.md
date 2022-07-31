@@ -48,10 +48,16 @@ __CS \w Maths 2__, *Grade 79%*. <br>
 `2019`
 __STEM VEX Robotics Competition__, *Software Engineer*. <br>
 Designed the software to drive a purpose built robot
- 
 
 `2019`
-__Villiers Park Education Trust__, *Scholars Programme, Computer Science*. <br>
+__University Rocket Challenge__, *Software Engineer* <br>
+At school, our team was tasked with designing a payload to be put
+into a rocket. I was responsible with interfacing with a raspberry
+pi to record non-Newtonian liquid, using a camera and a LED circuit.
+
+`2019`
+__Villiers Park Education Trust__, *Scholars Programme, Sponsored by ARM*. <br>
+I was chosen as a 'STEM Scholar', and spent 5 days in a resendential working with a team of 4.
 Presented a web-project to the class in a group, and won best presentation
 Learnt how to manage a workload in a group of varying skill-levels, and how to work under a deadline
 
