@@ -51,8 +51,8 @@ Designed the software to drive a purpose built robot.
 
 `2019`
 __Villiers Park Education Trust__, *Scholars Programme, Sponsored by ARM*. <br>
-I was chosen as a 'STEM Scholar', and spent 5 days in a resendential working with a team of 4.
-Presented a web-project to the class in a group, and won best presentation. 
+I was chosen as a 'STEM Scholar' and spent 5 days in a residential working with a team of 4.
+Presented a web-project to the class in a group and won best presentation. 
 Learnt how to manage a workload in a group of varying skill-levels, and how to work under pressure.
 
 `2020`
