@@ -58,7 +58,6 @@ Learnt how to manage a workload in a group of varying skill-levels, and how to w
 `2020`
 __University Rocket Challenge__, *Software Engineer*. <br>
 At school, our team was tasked with designing a payload to be put into a rocket. <br>
-
 I was responsible with interfacing with a raspberry pi to record non-Newtonian liquid, using a camera and a LED circuit.
 
 ## Awards
