@@ -24,8 +24,8 @@ I enjoy all aspects of Software Agile Development, particularly designing softwa
 
 __BSc Hons Computer Science with Artificial Intelligence__, *University of Nottingham*.
 `September 2021-now` <br>
-Average ~85% Grade for first year.
-Experience on the languages C, Java, Haskell and Python. 
+Average ~85% Grade for first year.<br>
+Experience on the languages C, Java, Haskell and Python. <br>
 Modules include a focus on practical software management and development.
 __9 GCSEs__, __4 A-Levels__, *Biddenham International School and Sports College*.
 `2015 September-2021 July`<br>
@@ -56,7 +56,7 @@ Learnt how to manage a workload in a group of varying skill-levels, and how to w
 
 `2018 May-2019 January`
 __STEM VEX Robotics Competition__, *Software Engineer*. <br>
-Responsible for the software to drive a purpose built robot.
+Responsible for the software to drive a purpose built robot.<br>
 I learnt how to interface various signals on a raspberry pi, and 
 was frequently taking feedback from the hardware designer and users.
 
