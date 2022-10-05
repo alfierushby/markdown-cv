@@ -33,10 +33,10 @@ Grades __9-7__, English (__7__), Maths (__8__), *GCSEs*<br>
 Mathematics (__A\*__), Further Mathematics (__A\*__), Physics (__A\*__), Computer Science (__A\*__), *A-Levels*
 
 ## Technical Experience
-I am proficient in C#, Vb.net, and highly proficient in Lua, which I have learned in my own time.<br><br>
-Have experience running linux web-servers, such as custom VPNs, setting up wordpress websites and coding PHP functionality.<br><br>
-Has used SQL and integrated into a web-enviroment whilst avoiding obvious security risks.<br><br>
-Learned C, Java, Haskell and Python to a 1st grade in the first year programming module.
+I am proficient in C#, Vb.net, and highly proficient in Lua, which I have learned in my own time.<br>
+Have experience running linux web-servers, such as custom VPNs, setting up wordpress websites and coding PHP functionality.<br>
+Has used SQL and integrated into a web-enviroment whilst avoiding obvious security risks.<br>
+Learned C, Java, Haskell and Python to a 1st grade in the first year programming module.<br>
 A vb.net project can be found <a href="https://github.com/ickeyben123/NEA">Here</a>
 
 
