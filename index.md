@@ -23,13 +23,13 @@ I enjoy all aspects of Software Agile Development, particularly designing softwa
 ## Education
 
 __BSc Hons Computer Science with Artificial Intelligence__, *University of Nottingham*.
-`September 2021-now` <br>
+`September 2021 – now` <br>
 \- Average ~85% Grade for first year.<br>
 \- Experience on the languages C, Java, Haskell and Python. <br>
 \- Modules include a focus on practical software management and development.
 
 __9 GCSEs__, __4 A-Levels__, *Biddenham International School and Sports College*.
-`2015 September-2021 July`<br>
+`2015 September - 2021 July`<br>
 \- GCSE Grades __9-7__, English (__7__), Maths (__8__) <br>
 \- A-Levels in Mathematics (__A\*__), Further Mathematics (__A\*__), Physics (__A\*__), Computer Science (__A\*__)
 
@@ -43,7 +43,7 @@ __9 GCSEs__, __4 A-Levels__, *Biddenham International School and Sports College*
 
 ## Extra-curricular 
 
-`2020`
+`2020, Summer Term Project`
 __University Rocket Challenge__, *Software Engineer*. <br>
 \- At school, our team was tasked with designing a payload to be put into a rocket. <br>
 \- I was responsible with interfacing with a raspberry pi to record non-Newtonian liquid, using a camera and a LED circuit.
@@ -55,7 +55,7 @@ __Villiers Park Education Trust__, *Scholars Programme, Sponsored by ARM*. <br>
 \- Presented a web-project to the class in a group and won the award best presentation again 5 other teams. <br>
 \- Learnt how to manage a workload in a group of varying skill-levels, and how to work under pressure.
 
-`2018 May-2019 January`
+`2018 May - 2019 January`
 __STEM VEX Robotics Competition__, *Software Engineer*. <br>
 \-Responsible for the software to drive a purpose built robot.<br>
 \- I learnt how to interface various signals on a raspberry pi, and 
