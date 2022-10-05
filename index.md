@@ -24,14 +24,14 @@ I enjoy all aspects of Software Agile Development, particularly designing softwa
 
 __BSc Hons Computer Science with Artificial Intelligence__, *University of Nottingham*.
 `September 2021-now` <br>
-Average ~85% Grade for first year.<br>
-Experience on the languages C, Java, Haskell and Python. <br>
-Modules include a focus on practical software management and development.
+\- Average ~85% Grade for first year.<br>
+\- Experience on the languages C, Java, Haskell and Python. <br>
+\- Modules include a focus on practical software management and development.
 
 __9 GCSEs__, __4 A-Levels__, *Biddenham International School and Sports College*.
 `2015 September-2021 July`<br>
-GCSE Grades __9-7__, English (__7__), Maths (__8__) <br>
-A-Levels in Mathematics (__A\*__), Further Mathematics (__A\*__), Physics (__A\*__), Computer Science (__A\*__)
+\- GCSE Grades __9-7__, English (__7__), Maths (__8__) <br>
+\- A-Levels in Mathematics (__A\*__), Further Mathematics (__A\*__), Physics (__A\*__), Computer Science (__A\*__)
 
 ## Technical Experience
 \- I am proficient in C#, Vb.net, and highly proficient in Lua, which I have learned in my own time.<br>
@@ -45,21 +45,21 @@ A-Levels in Mathematics (__A\*__), Further Mathematics (__A\*__), Physics (__A\*
 
 `2020`
 __University Rocket Challenge__, *Software Engineer*. <br>
-At school, our team was tasked with designing a payload to be put into a rocket. <br>
-I was responsible with interfacing with a raspberry pi to record non-Newtonian liquid, using a camera and a LED circuit.
+\- At school, our team was tasked with designing a payload to be put into a rocket. <br>
+\- I was responsible with interfacing with a raspberry pi to record non-Newtonian liquid, using a camera and a LED circuit.
 
 `2019, 5 day course`
 __Villiers Park Education Trust__, *Scholars Programme, Sponsored by ARM*. <br>
-I was chosen as a 'STEM Scholar' and spent 5 days in a residential working with a team of 4. <br>
-Was given the task to create a countdown game that found the largest 'rude' word from any input <br>
-Presented a web-project to the class in a group and won the award best presentation again 5 other teams. <br>
-Learnt how to manage a workload in a group of varying skill-levels, and how to work under pressure.
+\- I was chosen as a 'STEM Scholar' and spent 5 days in a residential working with a team of 4. <br>
+\- Was given the task to create a countdown game that found the largest 'rude' word from any input <br>
+\- Presented a web-project to the class in a group and won the award best presentation again 5 other teams. <br>
+\- Learnt how to manage a workload in a group of varying skill-levels, and how to work under pressure.
 
 `2018 May-2019 January`
 __STEM VEX Robotics Competition__, *Software Engineer*. <br>
-Responsible for the software to drive a purpose built robot.<br>
-I learnt how to interface various signals on a raspberry pi, and 
-was frequently taking feedback from the hardware designer and users.
+\-Responsible for the software to drive a purpose built robot.<br>
+\- I learnt how to interface various signals on a raspberry pi, and 
+\- was frequently taking feedback from the hardware designer and users.
 
 ## Awards
 
