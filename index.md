@@ -30,8 +30,8 @@ Modules include a focus on practical software management and development.
 
 __9 GCSEs__, __4 A-Levels__, *Biddenham International School and Sports College*.
 `2015 September-2021 July`<br>
-Grades __9-7__, English (__7__), Maths (__8__), *GCSEs*<br>
-Mathematics (__A\*__), Further Mathematics (__A\*__), Physics (__A\*__), Computer Science (__A\*__), *A-Levels*
+GCSE Grades __9-7__, English (__7__), Maths (__8__) <br>
+A-Levels in Mathematics (__A\*__), Further Mathematics (__A\*__), Physics (__A\*__), Computer Science (__A\*__)
 
 ## Technical Experience
 I am proficient in C#, Vb.net, and highly proficient in Lua, which I have learned in my own time.<br>
