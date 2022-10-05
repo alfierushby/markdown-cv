@@ -37,7 +37,7 @@ I am proficient in C#, Vb.net, and highly proficient in Lua, which I have learne
 Have experience running linux web-servers, such as custom VPNs, setting up wordpress websites and coding PHP functionality.<br>
 Has used SQL and integrated into a web-enviroment whilst avoiding obvious security risks.<br>
 Learned C, Java, Haskell and Python to a 1st grade in the first year programming module.<br>
-A vb.net project can be found <a href="https://github.com/ickeyben123/NEA">Here</a>
+A vb.net project can be found <a href="https://github.com/ickeyben123/NEA">Here</a>.
 
 
 ## Extra-curricular 
@@ -67,10 +67,6 @@ For attaining the highest A-Level result in the year.
 
 __UG High Achiever 1st Year prize__, *Nottingham University 2022*. <br>
 For exam results.
-
-## Personal
-- Birth date: 2nd February 2003
-- Residence: United Kingdom
 
 <!-- ### Footer
 
