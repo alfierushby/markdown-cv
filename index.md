@@ -5,7 +5,7 @@ title: Alfie Rushby's CV
 # Alfie Rushby
 Undergraduate, University of Nottingham
 
-71 Hadrian Avenue, Dunstable, United Kingdom
+3 Adelaide Cottages, Goswell End Road, Harlington LU5 6NY
 
 +44 07766 122932
 
@@ -16,49 +16,49 @@ Undergraduate, University of Nottingham
 
 ## Who I am
 
-I am a student who enjoys challenge. Mathematics is prevalent in all scientific subjects, including computer science,
-and thus I pertain great importance to understanding and appreciating it. Due to this, I enjoy teaching whenever I can, as it is the best method to learn.
-I also undertake many hobbies, such as programming games, piano, and reading. 
+I am a second year student studing Computer Science and AI at The University of Nottingham. I have particular experience in C#, Vb.net, C, Lua, Python, Java and Haskell.
+I enjoy all aspects of Software Agile Development, particularly designing software systems.
 
 
 ## Education
 
+__BSc Hons Computer Science with Artificial Intelligence__, *University of Nottingham*.
+`September 2021-now` <br>
+Average ~85% Grade for first year.
+Experience on the languages C, Java, Haskell and Python. 
+Modules include a focus on practical software management and development.
 __9 GCSEs__, __4 A-Levels__, *Biddenham International School and Sports College*.
-`2015-2020`<br>
+`2015 September-2021 July`<br>
 Grades __9-7__, English (__7__), Maths (__8__), *GCSEs*<br>
 Mathematics (__A\*__), Further Mathematics (__A\*__), Physics (__A\*__), Computer Science (__A\*__), *A-Levels*
 
-__BSc Hons Computer Science with Artificial Intelligence__, *University of Nottingham*.
-`2021-now` <br>
-Average ~85% Grade for first year.
- 
-### Relevant Modules
-
-__CS \w Maths 1__, *Grade 86%*. <br>
- Learned Informal and Formal proofs, Set Theory, Graphs and Probability. Formal proofs can be used to define axioms and build numbering systems and operation functions.
-
-__CS \w Maths 2__, *Grade 79%*. <br>
- Learned Linear Algebra, focused heavily on theoretical building and proving of Vector Spaces, Linear Mappings to transform such spaces, and how to represent these functions in terms of Matrices.
-
+## Technical Experience
+I am proficient in C#, Vb.net, and highly proficient in Lua, which I have learned in my own time.<br><br>
+Have experience running linux web-servers, such as custom VPNs, setting up wordpress websites and coding PHP functionality.<br><br>
+Has used SQL and integrated into a web-enviroment whilst avoiding obvious security risks.<br><br>
+Learned C, Java, Haskell and Python to a 1st grade in the first year programming module.
+A vb.net project can be found 
 
 
 ## Extra-curricular 
-
-
-`2019`
-__STEM VEX Robotics Competition__, *Software Engineer*. <br>
-Designed the software to drive a purpose built robot.
-
-`2019`
-__Villiers Park Education Trust__, *Scholars Programme, Sponsored by ARM*. <br>
-I was chosen as a 'STEM Scholar' and spent 5 days in a residential working with a team of 4. <br>
-Presented a web-project to the class in a group and won best presentation. <br>
-Learnt how to manage a workload in a group of varying skill-levels, and how to work under pressure.
 
 `2020`
 __University Rocket Challenge__, *Software Engineer*. <br>
 At school, our team was tasked with designing a payload to be put into a rocket. <br>
 I was responsible with interfacing with a raspberry pi to record non-Newtonian liquid, using a camera and a LED circuit.
+
+`2019, 5 day course`
+__Villiers Park Education Trust__, *Scholars Programme, Sponsored by ARM*. <br>
+I was chosen as a 'STEM Scholar' and spent 5 days in a residential working with a team of 4. <br>
+Was given the task to create a countdown game that found the largest 'rude' word from any input <br>
+Presented a web-project to the class in a group and won the award best presentation again 5 other teams. <br>
+Learnt how to manage a workload in a group of varying skill-levels, and how to work under pressure.
+
+`2018 May-2019 January`
+__STEM VEX Robotics Competition__, *Software Engineer*. <br>
+Responsible for the software to drive a purpose built robot.
+I learnt how to interface various signals on a raspberry pi, and 
+was frequently taking feedback from the hardware designer and users.
 
 ## Awards
 
