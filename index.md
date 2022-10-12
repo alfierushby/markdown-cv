@@ -26,7 +26,7 @@ __BSc Hons Computer Science with Artificial Intelligence__, *University of Notti
 `September 2021 – now` <br>
 \- Average ~85% Grade for first year.<br>
 \- Experience on the languages C, Java, Haskell and Python. <br>
-\- Modules include a focus on practical software management and development.
+\- Modules include a focus on practical software management and development, including a module focused on all stages of software engineering and agile methods.
 
 __9 GCSEs__, __4 A-Levels__, *Biddenham International School and Sports College*.
 `2015 September - 2021 July`<br>
