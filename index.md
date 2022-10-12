@@ -40,6 +40,7 @@ __9 GCSEs__, __4 A-Levels__, *Biddenham International School and Sports College*
 \- Learned C, Java and Haskell to a 1st grade in the first year programming modules.<br>
 \- Used python with Pandas and NumPy to train some scikit-learn neural networks, decision trees and linear regression models to predict who died on the titanic.<br>
 \- A vb.net project can be found <a href="https://github.com/ickeyben123/NEA">Here</a>.
+\- A web project for solving countdown can be found <a href="https://github.com/uploadingdictionairy/EarlDescent">Here</a>.
 
 
 ## Extra-curricular 
@@ -51,6 +52,7 @@ __University Rocket Challenge__, *Software Engineer*. <br>
 
 `2019, 5 day course`
 __Villiers Park Education Trust__, *Scholars Programme, Sponsored by ARM*. <br>
+\- Website created shown <a href="https://uploadingdictionairy.github.io/">Here</a>
 \- I was chosen as a 'STEM Scholar' and spent 5 days in a residential working with a team of 4. <br>
 \- Was given the task to create a countdown game that found the largest 'rude' word from any input <br>
 \- Presented a web-project to the class in a group and won the award of best presentation compared to 5 other teams. <br>
