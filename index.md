@@ -39,7 +39,7 @@ __9 GCSEs__, __4 A-Levels__, *Biddenham International School and Sports College*
 \- Have used SQL and integrated into a web-enviroment whilst avoiding obvious security risks.<br>
 \- Learned C, Java and Haskell to a 1st grade in the first year programming modules.<br>
 \- Used python with Pandas and NumPy to train some scikit-learn neural networks, decision trees and linear regression models to predict who died on the titanic.<br>
-\- A vb.net project can be found <a href="https://github.com/ickeyben123/NEA">Here</a>.
+\- A vb.net project can be found <a href="https://github.com/ickeyben123/NEA">Here</a>.<br>
 \- A web project for solving countdown can be found <a href="https://github.com/uploadingdictionairy/EarlDescent">Here</a>.
 
 
