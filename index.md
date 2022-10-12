@@ -37,7 +37,8 @@ __9 GCSEs__, __4 A-Levels__, *Biddenham International School and Sports College*
 \- I am proficient in C#, Vb.net, and highly proficient in Lua, which I have learned in my own time.<br>
 \- Have experience running linux web-servers, such as custom VPNs, setting up wordpress websites and coding PHP functionality.<br>
 \- Have used SQL and integrated into a web-enviroment whilst avoiding obvious security risks.<br>
-\- Learned C, Java, Haskell and Python to a 1st grade in the first year programming modules.<br>
+\- Learned C, Java and Haskell to a 1st grade in the first year programming modules.<br>
+\- Used python with Pandas and NumPy to train some scikit-learn neural networks, decision trees and linear regression models to predict who died on the titanic.
 \- A vb.net project can be found <a href="https://github.com/ickeyben123/NEA">Here</a>.
 
 
