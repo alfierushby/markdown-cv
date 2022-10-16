@@ -5,8 +5,6 @@ title: Alfie Rushby's CV
 # Alfie Rushby
 Undergraduate, University of Nottingham
 
-3 Adelaide Cottages, Goswell End Road, Harlington LU5 6NY
-
 +44 07766 122932
 
 <div id="webaddress">
