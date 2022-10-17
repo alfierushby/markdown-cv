@@ -51,6 +51,7 @@ __Software Engineering Group Project__ <br>
 __Maths Homework Solver Project__ <br>
 \- Can be found <a href="https://github.com/ickeyben123/NEA">Here</a>.<br>
 \- Extensive use of trees to solve calculus problems.
+\- Front-end interface to manage homework files and marking.
   
 ## Extra-curricular 
 
@@ -71,6 +72,7 @@ __Villiers Park Education Trust__, *Scholars Programme, Sponsored by ARM*. <br>
 __STEM VEX Robotics Competition__, *Software Engineer*. <br>
 \- Responsible for the software to drive a purpose built robot.<br>
 \- I learnt how to interface various signals on a raspberry pi, and was frequently taking feedback from the hardware designer and users.
+\- I had to learn to quickly fix unexpected bugs during the competition.
 
 ## Awards
 
