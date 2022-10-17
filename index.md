@@ -47,7 +47,6 @@ __Software Engineering Group Project__
 \- Learnt how to use Git issues extensively to delegate tasks.
 \- Achieved a group First.
 
-
 `2020 Septmber - 2021 June`
 __Maths Homework Solver Project__
 \- Can be found <a href="https://github.com/ickeyben123/NEA">Here</a>.
