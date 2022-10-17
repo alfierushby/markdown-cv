@@ -51,7 +51,7 @@ __2nd Year Group Project__, *Group Admin* <br>
 __Software Engineering Group Project__ <br>
 \- In a team of 6 we were given a brief and the task of documenting and procuring requirements and diagrams.<br>
 \-  Implemented java unit and integration testing to adhere to system specifications.<br>
-\- Learnt how to use Git issues extensively to delegate tasks.
+\- Learnt how to use Git issues extensively to delegate tasks. <br>
 \- Achieved a group First.
 
 `2020 Septmber - 2021 June`
