@@ -41,15 +41,15 @@ __9 GCSEs__, __4 A-Levels__, *Biddenham International School and Sports College*
 ## Projects
 
 `2022 January - June, Summer Term Project`
-__Software Engineering Group Project__
+__Software Engineering Group Project__ <br>
 \- In a team of 6 we were given a brief and the task of documenting and procuring requirements and diagrams.<br>
 \-  Implemented java unit and integration testing to adhere to system specifications.<br>
 \- Learnt how to use Git issues extensively to delegate tasks.
 \- Achieved a group First.
 
 `2020 Septmber - 2021 June`
-__Maths Homework Solver Project__
-\- Can be found <a href="https://github.com/ickeyben123/NEA">Here</a>.
+__Maths Homework Solver Project__ <br>
+\- Can be found <a href="https://github.com/ickeyben123/NEA">Here</a>.<br>
 \- Extensive use of trees to solve calculus problems.
   
 ## Extra-curricular 
