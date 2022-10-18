@@ -55,7 +55,7 @@ __Software Engineering Group Project__ <br>
 
 `2020 Septmber - 2021 June`
 __Maths Homework Solver Project__ <br>
-\- Can be found __<a href="https://github.com/ickeyben123/NEA">Here</a>__.<br>
+\- Can be found __<a href="https://github.com/ickeyben123/NEA">Here</a>__ and its <a href="https://raw.githubusercontent.com/ickeyben123/NEA/master/Documentation/Project%20Analysis.pdf">__Analysis Here__</a>.<br>
 \- Extensive use of trees to solve calculus problems. <br>
 \- Front-end interface to manage homework files and marking.
   
