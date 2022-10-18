@@ -32,7 +32,7 @@ __9 GCSEs__, __4 A-Levels__, *Biddenham International School and Sports College*
 \- A-Levels in Mathematics (__A\*__), Further Mathematics (__A\*__), Physics (__A\*__), Computer Science (__A\*__)
 
 ## Technical Experience
-\- I am proficient in C#, Vb.net, and highly proficient in Lua, which I have learned in my own time.<br>
+\- Proficient in C#, Vb.net, and highly proficient in Lua, which I have learned in my own time.<br>
 \- Have experience running linux web-servers, such as custom VPNs, setting up wordpress websites and coding PHP functionality.<br>
 \- Have used SQL and integrated into a web-enviroment whilst avoiding obvious security risks.<br>
 \- Learned C, Java and Haskell to a 1st grade in the first year programming modules.<br>
