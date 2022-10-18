@@ -73,6 +73,7 @@ __Villiers Park Education Trust__, *Scholars Programme, Sponsored by ARM*. <br>
 \- Was given the task to create a countdown game that found the largest 'rude' word from any input <br>
 \- Presented a web-project to the class in a group and won the award of best presentation compared to 5 other teams. <br>
 \- Learnt how to manage a workload in a group of varying skill-levels, and how to work under pressure.
+\- Was responsible for a large portion of the backend JS, and most of the frontend.
 
 `2018 May - 2019 January`
 __STEM VEX Robotics Competition__, *Software Engineer*. <br>
