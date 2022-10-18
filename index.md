@@ -68,7 +68,7 @@ __University Rocket Challenge__, *Software Engineer*. <br>
 
 `2019, 5 day course`
 __Villiers Park Education Trust__, *Scholars Programme, Sponsored by ARM*. <br>
-\- Website created shown __<a href="https://uploadingdictionairy.github.io/">Here</a>__ <br>
+\- Website created shown __<a href="https://uploadingdictionairy.github.io/">Here</a>__.<br>
 \- I was chosen as a 'STEM Scholar' and spent 5 days in a residential working with a team of 4. <br>
 \- Was given the task to create a countdown game that found the largest 'rude' word from any input <br>
 \- Presented a web-project to the class in a group and won the award of best presentation compared to 5 other teams. <br>
