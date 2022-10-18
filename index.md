@@ -64,12 +64,12 @@ __Maths Homework Solver Project__ <br>
 `2020, Summer Term`
 __University Rocket Challenge__, *Software Engineer*. <br>
 \- My team was tasked with designing a payload to be put into a rocket. <br>
-\- I was responsible with interfacing with a raspberry pi to record non-Newtonian liquid, using a camera and a LED circuit.
+\- Eas responsible with interfacing with a raspberry pi to record non-Newtonian liquid, using a camera and a LED circuit.
 
 `2019, 5 day course`
 __Villiers Park Education Trust__, *Scholars Programme, Sponsored by ARM*. <br>
 \- Website created shown __<a href="https://uploadingdictionairy.github.io/">Here</a>__.<br>
-\- I was chosen as a 'STEM Scholar' and spent 5 days in a residential working with a team of 4. <br>
+\- Was chosen as a 'STEM Scholar' and spent 5 days in a residential working with a team of 4. <br>
 \- Was given the task to create a countdown game that found the largest 'rude' word from any input <br>
 \- Presented a web-project to the class of 30 people in a group and won the award of best presentation compared to 5 other teams. <br>
 \- Learnt how to manage a workload in a group of varying skill-levels, and how to work under pressure.<br>
@@ -78,8 +78,8 @@ __Villiers Park Education Trust__, *Scholars Programme, Sponsored by ARM*. <br>
 `2018 May - 2019 January`
 __STEM VEX Robotics Competition__, *Software Engineer*. <br>
 \- Responsible for the software to drive a purpose built robot.<br>
-\- I learnt how to interface various signals on a raspberry pi, and was frequently taking feedback from the hardware designer and users.<br>
-\- I had to quickly fix unexpected bugs during the competition, including working in short time frames.
+\- Learnt how to interface various signals on a raspberry pi, and was frequently taking feedback from the hardware designer and users.<br>
+\- Had to quickly fix unexpected bugs during the competition, including working in short time frames.
 
 ## Awards
 
