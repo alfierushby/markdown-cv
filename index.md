@@ -77,7 +77,7 @@ __Villiers Park Education Trust__, *Scholars Programme, Sponsored by ARM*. <br>
 `2018 May - 2019 January`
 __STEM VEX Robotics Competition__, *Software Engineer*. <br>
 \- Responsible for the software to drive a purpose built robot.<br>
-\- I learnt how to interface various signals on a raspberry pi, and was frequently taking feedback from the hardware designer and users.
+\- I learnt how to interface various signals on a raspberry pi, and was frequently taking feedback from the hardware designer and users.<br>
 \- I had to learn to quickly fix unexpected bugs during the competition.
 
 ## Awards
