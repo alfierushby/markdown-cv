@@ -28,7 +28,7 @@ __BSc Hons Computer Science with Artificial Intelligence__, *University of Notti
 
 __9 GCSEs__, __4 A-Levels__, *Biddenham International School and Sports College*.
 `2016 September - 2021 July`<br>
-\- GCSE Grades, Range __9-7__, English (__7__), Maths (__8__), Computer Science (__8__). <br>
+\- GCSE Grades, Range __9-7__, English (__7__), Maths (__8__), Computer Science (__8__), Physics (__9__). <br>
 \- A-Levels in Mathematics (__A\*__), Further Mathematics (__A\*__), Physics (__A\*__), Computer Science (__A\*__).
 
 ## Technical Experience
