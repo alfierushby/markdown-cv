@@ -21,7 +21,7 @@ I enjoy all aspects of Software Agile Development, particularly designing softwa
 ## Education
 
 __BSc Hons Computer Science with Artificial Intelligence__, *University of Nottingham*.
-`September 2021 – now` <br>
+`September 2021 – Now` <br>
 \- Average ~85% Grade for first year.<br>
 \- Experience on the languages C, Java, Haskell and Python. <br>
 \- Modules include a focus on practical software management and development, including a module focused on all stages of software engineering and agile methods.
