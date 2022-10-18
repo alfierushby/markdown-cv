@@ -72,7 +72,7 @@ __Villiers Park Education Trust__, *Scholars Programme, Sponsored by ARM*. <br>
 \- I was chosen as a 'STEM Scholar' and spent 5 days in a residential working with a team of 4. <br>
 \- Was given the task to create a countdown game that found the largest 'rude' word from any input <br>
 \- Presented a web-project to the class in a group and won the award of best presentation compared to 5 other teams. <br>
-\- Learnt how to manage a workload in a group of varying skill-levels, and how to work under pressure.
+\- Learnt how to manage a workload in a group of varying skill-levels, and how to work under pressure.<br>
 \- Was responsible for a large portion of the backend JS, and most of the frontend.
 
 `2018 May - 2019 January`
