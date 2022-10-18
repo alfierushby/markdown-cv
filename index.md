@@ -49,7 +49,7 @@ __2nd Year Group Project__, *Group Admin* <br>
 `2022 January - June, Summer Term Project`
 __Software Engineering Group Project__ <br>
 \- In a team of 6 we were given a brief and the task of documenting and procuring requirements and diagrams.<br>
-\- Implemented java unit and integration testing to adhere to system specifications.<br>
+\- Implemented Java unit and integration testing to adhere to system specifications.<br>
 \- Learnt how to use Git issues extensively to delegate tasks. <br>
 \- Achieved a group First.
 
