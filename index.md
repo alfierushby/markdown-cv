@@ -37,13 +37,31 @@ __9 GCSEs__, __4 A-Levels__, *Biddenham International School and Sports College*
 \- Have used SQL and integrated into a web-enviroment whilst avoiding obvious security risks.<br>
 \- Learned C, Java and Haskell to a 1st grade in the first year programming modules.<br>
 \- Used python with Pandas and NumPy to train some scikit-learn neural networks, decision trees and linear regression models to predict who died on the titanic.<br>
-\- A vb.net project can be found <a href="https://github.com/ickeyben123/NEA">Here</a>.<br>
-\- A web project for solving countdown can be found __<a href="https://github.com/uploadingdictionairy/EarlDescent">Here</a>__.
+## Projects
+
+`2022 September - Now`
+__2nd Year Group Project__, *Group Admin* <br>
+\- Assigned into a team of 7. <br>
+\- Manage attendance, booking of meetings, and writing out reports. <br>
+\- Uses communication skills for time management and assigning of tasks.
 
 
+`2022 January - June, Summer Term Project`
+__Software Engineering Group Project__ <br>
+\- In a team of 6 we were given a brief and the task of documenting and procuring requirements and diagrams.<br>
+\-  Implemented java unit and integration testing to adhere to system specifications.<br>
+\- Learnt how to use Git issues extensively to delegate tasks. <br>
+\- Achieved a group First.
+
+`2020 Septmber - 2021 June`
+__Maths Homework Solver Project__ <br>
+\- Can be found <a href="https://github.com/ickeyben123/NEA">Here</a>.<br>
+\- Extensive use of trees to solve calculus problems. <br>
+\- Front-end interface to manage homework files and marking.
+  
 ## Extra-curricular 
 
-`2020, Summer Term Project`
+`2020, Summer Term`
 __University Rocket Challenge__, *Software Engineer*. <br>
 \- At school, our team was tasked with designing a payload to be put into a rocket. <br>
 \- I was responsible with interfacing with a raspberry pi to record non-Newtonian liquid, using a camera and a LED circuit.
@@ -59,8 +77,8 @@ __Villiers Park Education Trust__, *Scholars Programme, Sponsored by ARM*. <br>
 `2018 May - 2019 January`
 __STEM VEX Robotics Competition__, *Software Engineer*. <br>
 \- Responsible for the software to drive a purpose built robot.<br>
-\- I learnt how to interface various signals on a raspberry pi, and 
-\- was frequently taking feedback from the hardware designer and users.
+\- I learnt how to interface various signals on a raspberry pi, and was frequently taking feedback from the hardware designer and users.
+\- I had to learn to quickly fix unexpected bugs during the competition.
 
 ## Awards
 
