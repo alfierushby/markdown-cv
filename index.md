@@ -42,7 +42,7 @@ __9 GCSEs__, __4 A-Levels__, *Biddenham International School and Sports College*
 `2022 September - Now`
 __2nd Year Group Project__, *Group Admin* <br>
 \- Assigned into a team of 7. <br>
-\- Manage attendance, booking of meetings, and writing out reports. <br>
+\- Manage attendance, booking of meetings, and writing of reports. <br>
 \- Uses communication skills for time management and assigning of tasks.
 
 
