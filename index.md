@@ -14,7 +14,7 @@ Undergraduate, University of Nottingham
 
 ## Who I am
 
-I am a second year student studing Computer Science and AI at The University of Nottingham. I have particular experience in C#, Vb.net, C, Lua, Python, Java and Haskell.
+I am a third year student studing Computer Science and AI at The University of Nottingham. I have particular experience in C#, Vb.net, C, Lua, Python, Java and Haskell.
 I enjoy all aspects of Software Agile Development, particularly designing software systems.
 
 
@@ -23,8 +23,9 @@ I enjoy all aspects of Software Agile Development, particularly designing softwa
 __BSc Hons Computer Science with Artificial Intelligence__, *University of Nottingham*.
 `September 2021 – Now` <br>
 \- Average ~85% Grade for first year.<br>
+\- Average ~84% Grade for second year.<br>
 \- Experience on the languages C, Java, Haskell and Python. <br>
-\- Modules include a focus on practical software management and development, including a module focused on all stages of software engineering and agile methods.
+\- Modules include a focus on practical software management and development, agile methods, AI heuristics, group work, and algorithm efficiency.
 
 __9 GCSEs__, __4 A-Levels__, *Biddenham International School and Sports College*.
 `2016 September - 2021 July`<br>
@@ -32,18 +33,23 @@ __9 GCSEs__, __4 A-Levels__, *Biddenham International School and Sports College*
 \- A-Levels in Mathematics (__A\*__), Further Mathematics (__A\*__), Physics (__A\*__), Computer Science (__A\*__).
 
 ## Technical Experience
-\- Proficient in C#, Vb.net, and highly proficient in Lua, which I have learned in my own time.<br>
-\- Have experience running linux web-servers, such as custom VPNs, setting up wordpress websites and coding PHP functionality.<br>
-\- Have used SQL and integrated into a web-enviroment whilst avoiding obvious security risks.<br>
+\- Proficient in C#, Vb.net, Javascript, CSS and highly proficient in Lua, which I have learned in my own time.<br>
+\- Have experience running linux web-servers, such as custom VPNs, setting up Kubernetes, and Docker Severless management and deployment.<br>
+\- Have used SQL and NoSQL and integrated into a web-enviroment whilst avoiding obvious security risks.<br>
 \- Learned C, Java and Haskell to a 1st grade in the first year programming modules.<br>
-\- Used Python with Pandas and NumPy to train some scikit-learn neural networks, decision trees and linear regression models to predict who died on the titanic.<br>
+\- Explored proper code maintainability.<br>
+\- Svelete and Express.Js experience creating a functional web app.
 ## Projects
 
-`2022 September - Now`
+`2022 September - 2023 June`
 __2nd Year Group Project__, *Group Admin* <br>
 \- Assigned into a team of 7. <br>
 \- Managed attendance, booking of meetings, and writing of reports. <br>
-\- Used communication skills for time management and assigning of tasks.
+\- Used communication skills for time management and assigning of tasks. <br>
+\- Headed all meetings, handled task delegation and retrospection, and steered the technical direction of the project. <br>
+\- Created a web app that integrated AR to find and manage items by tagging them, see <a href="https://raw.githubusercontent.com/ickeyben123/AR/documentation/Main%20Report%20Documents/team29-FinalReport.pdf">__Report Here__</a>. <br>
+\- Setup IBM Cloud Kuberenetes System and integrated a multi-docker container server managing a Node.js backend connected to a NoSQL database, with a Svelte Frontend. <br>
+\- Has signification contributions to both backend and frontend systems.
 
 
 `2022 January - June, Summer Term Project`
