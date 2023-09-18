@@ -46,8 +46,8 @@ __2nd Year Group Project__, *Group Admin* <br>
 \- Managed attendance, booking of meetings, and writing of reports. <br>
 \- Used communication skills for time management and assigning of tasks. <br>
 \- Headed all meetings, handled task delegation and retrospection, and steered the technical direction of the project. <br>
-\- Understood the importance of the client and tailoring your user stories to their vision.
-\- Created a web app that integrated AR to find and manage items by tagging them, see <a href="https://github.com/ickeyben123/AR">__Report Here__</a>, and <a href="https://raw.githubusercontent.com/ickeyben123/AR/documentation/Main%20Report%20Documents/team29-FinalReport.pdf">__Report Here__</a>. <br>
+\- Understood the importance of the client and tailoring your user stories to their vision.<br>
+\- Created a web app that integrated AR to find and manage items by tagging them, see <a href="https://github.com/ickeyben123/AR">__Repo__</a>, and <a href="https://raw.githubusercontent.com/ickeyben123/AR/documentation/Main%20Report%20Documents/team29-FinalReport.pdf">__Report Here__</a>. <br>
 \- Setup IBM Cloud Kuberenetes System and integrated a multi-docker container server managing a Node.js backend connected to a NoSQL database, with a Svelte Frontend. <br>
 \- Has signification contributions to both backend and frontend systems.
 
