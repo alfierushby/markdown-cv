@@ -36,7 +36,7 @@ __9 GCSEs__, __4 A-Levels__, *Biddenham International School and Sports College*
 \- Proficient in C#, Vb.net, JavaScript, CSS and in Lua, which I have learned in my own time.<br>
 \- Have experience running linux web-servers, such as custom VPNs, setting up Kubernetes, and Docker Severless management and deployment.<br>
 \- Have used SQL and NoSQL and integrated into a web-enviroment whilst avoiding obvious security risks.<br>
-\- Explored proper code maintainability and enforced its use .<br>
+\- Explored proper code maintainability and enforced its use in group projects.<br>
 \- Svelte and Express.Js experience creating a functional web app.
 ## Projects
 
@@ -47,7 +47,7 @@ __2nd Year Group Project__, *Group Admin* <br>
 \- Used communication skills for time management and assigning of tasks. <br>
 \- Headed all meetings, handled task delegation and retrospection, and steered the technical direction of the project. <br>
 \- Understood the importance of the client and tailoring your user stories to their vision.
-\- Created a web app that integrated AR to find and manage items by tagging them, see <a href="https://raw.githubusercontent.com/ickeyben123/AR/documentation/Main%20Report%20Documents/team29-FinalReport.pdf">__Report Here__</a>. <br>
+\- Created a web app that integrated AR to find and manage items by tagging them, see <a href="https://github.com/ickeyben123/AR">__Report Here__</a>, and <a href="https://raw.githubusercontent.com/ickeyben123/AR/documentation/Main%20Report%20Documents/team29-FinalReport.pdf">__Report Here__</a>. <br>
 \- Setup IBM Cloud Kuberenetes System and integrated a multi-docker container server managing a Node.js backend connected to a NoSQL database, with a Svelte Frontend. <br>
 \- Has signification contributions to both backend and frontend systems.
 
