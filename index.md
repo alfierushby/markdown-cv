@@ -70,7 +70,7 @@ __Maths Homework Solver Project__ <br>
 `2020, Summer Term`
 __University Rocket Challenge__, *Software Engineer*. <br>
 \- My team was tasked with designing a payload to be put into a rocket. <br>
-\- Eas responsible with interfacing with a raspberry pi to record non-Newtonian liquid, using a camera and a LED circuit.
+\- Was responsible with interfacing with a raspberry pi to record non-Newtonian liquid, using a camera and a LED circuit.
 
 `2019, 5 day course`
 __Villiers Park Education Trust__, *Scholars Programme, Sponsored by ARM*. <br>
