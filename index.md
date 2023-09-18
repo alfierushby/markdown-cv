@@ -14,7 +14,7 @@ Undergraduate, University of Nottingham
 
 ## Who I am
 
-I am a third year student studing Computer Science and AI at The University of Nottingham. I have particular experience in C#, Vb.net, C, Lua, Python, Java and Haskell.
+I am a third year student studing Computer Science and AI at The University of Nottingham. I have particular experience in C#, Vb.net, C, Lua, Python, Java, Haskell and JavaScript.
 I enjoy all aspects of Software Agile Development, particularly designing software systems.
 
 
@@ -24,7 +24,7 @@ __BSc Hons Computer Science with Artificial Intelligence__, *University of Notti
 `September 2021 – Now` <br>
 \- Average ~85% Grade for first year.<br>
 \- Average ~84% Grade for second year.<br>
-\- Experience on the languages C, Java, Haskell and Python. <br>
+\- Experience on the languages C, Java, Haskell and Python, JS. <br>
 \- Modules include a focus on practical software management and development, agile methods, AI heuristics, group work, and algorithm efficiency.
 
 __9 GCSEs__, __4 A-Levels__, *Biddenham International School and Sports College*.
@@ -33,12 +33,11 @@ __9 GCSEs__, __4 A-Levels__, *Biddenham International School and Sports College*
 \- A-Levels in Mathematics (__A\*__), Further Mathematics (__A\*__), Physics (__A\*__), Computer Science (__A\*__).
 
 ## Technical Experience
-\- Proficient in C#, Vb.net, Javascript, CSS and highly proficient in Lua, which I have learned in my own time.<br>
+\- Proficient in C#, Vb.net, JavaScript, CSS and in Lua, which I have learned in my own time.<br>
 \- Have experience running linux web-servers, such as custom VPNs, setting up Kubernetes, and Docker Severless management and deployment.<br>
 \- Have used SQL and NoSQL and integrated into a web-enviroment whilst avoiding obvious security risks.<br>
-\- Learned C, Java and Haskell to a 1st grade in the first year programming modules.<br>
-\- Explored proper code maintainability.<br>
-\- Svelete and Express.Js experience creating a functional web app.
+\- Explored proper code maintainability and enforced its use .<br>
+\- Svelte and Express.Js experience creating a functional web app.
 ## Projects
 
 `2022 September - 2023 June`
@@ -47,6 +46,7 @@ __2nd Year Group Project__, *Group Admin* <br>
 \- Managed attendance, booking of meetings, and writing of reports. <br>
 \- Used communication skills for time management and assigning of tasks. <br>
 \- Headed all meetings, handled task delegation and retrospection, and steered the technical direction of the project. <br>
+\- Understood the importance of the client and tailoring your user stories to their vision.
 \- Created a web app that integrated AR to find and manage items by tagging them, see <a href="https://raw.githubusercontent.com/ickeyben123/AR/documentation/Main%20Report%20Documents/team29-FinalReport.pdf">__Report Here__</a>. <br>
 \- Setup IBM Cloud Kuberenetes System and integrated a multi-docker container server managing a Node.js backend connected to a NoSQL database, with a Svelte Frontend. <br>
 \- Has signification contributions to both backend and frontend systems.
