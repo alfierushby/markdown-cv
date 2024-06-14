@@ -3,9 +3,7 @@ layout: cv
 title: Alfie Rushby's CV
 ---
 # Alfie Rushby
-Undergraduate, University of Nottingham
-
-+44 07766 122932
+Graduate, University of Nottingham
 
 <div id="webaddress">
 <a href="mailto: rushbyalfie99@gmail.com">rushbyalfie99@gmail.com</a>
@@ -14,18 +12,17 @@ Undergraduate, University of Nottingham
 
 ## Who I am
 
-I am a third year student studing Computer Science and AI at The University of Nottingham. I have particular experience in C#, Vb.net, C, Lua, Python, Java, Haskell and JavaScript.
-I enjoy all aspects of Software Agile Development, particularly designing software systems.
+I am a graduate student for Computer Science and AI at The University of Nottingham. I have particular experience in C#, Vb.net, C, Lua, Python, Java, Haskell, JavaScript, MatLab and various web frameworks.
 
 
 ## Education
 
 __BSc Hons Computer Science with Artificial Intelligence__, *University of Nottingham*.
-`September 2021 – Now` <br>
+`September 2021 – 2024` <br>
 \- Average ~85% Grade for first year.<br>
 \- Average ~84% Grade for second year.<br>
-\- Experience on the languages C, Java, Haskell and Python, JS. <br>
-\- Modules include a focus on practical software management and development, agile methods, AI heuristics, group work, and algorithm efficiency.
+\- Experience on the languages C, Java, Haskell, Python, JS, MatLab. <br>
+\- Modules include a focus on practical software management and development, agile methods, AI heuristics, group work, algorithm efficiency and computability, computer vision with a focus on deep learning, symbolic AI, mobile app development and cryptography.
 
 __9 GCSEs__, __4 A-Levels__, *Biddenham International School and Sports College*.
 `2016 September - 2021 July`<br>
@@ -33,7 +30,7 @@ __9 GCSEs__, __4 A-Levels__, *Biddenham International School and Sports College*
 \- A-Levels in Mathematics (__A\*__), Further Mathematics (__A\*__), Physics (__A\*__), Computer Science (__A\*__).
 
 ## Technical Experience
-\- Proficient in C#, Vb.net, JavaScript, CSS and in Lua, which I have learned in my own time.<br>
+\- Proficient in C#, Vb.net, JavaScript, CSS and in Lua.<br>
 \- Have experience running linux web-servers, such as custom VPNs, setting up Kubernetes, and Docker Severless management and deployment.<br>
 \- Have used SQL and NoSQL and integrated into a web-enviroment whilst avoiding obvious security risks.<br>
 \- Explored proper code maintainability and enforced its use in group projects.<br>
